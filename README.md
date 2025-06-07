@@ -1,1 +1,2 @@
-# guessing game written in python
+# guessing number game 
+# written in python
