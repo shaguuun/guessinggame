@@ -14,20 +14,6 @@ The computer randomly selects a number between 1 and 100. You then try to guess 
 
 Guesses outside the range of 1–100 are rejected as out of bounds.
 
-## Requirements
-
-- Python 3.x
-
-No external libraries are needed — only Python's built-in `random` module is used.
-
-## How to Run
-
-```bash
-python guess_me_game.py
-```
-
-Then follow the on-screen prompts to start guessing!
-
 ## Example Gameplay
 
 ```
@@ -47,7 +33,7 @@ CONGRATULATIONS! YOU GUESSED IT IN ONLY 4 GUESSES!!
 ## File Structure
 
 ```
-guess_me_game.py   # Main game script
+hello world.py   # Main game script
 README.md          # This file
 ```
 
